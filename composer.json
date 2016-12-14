@@ -1,0 +1,10 @@
+{
+    "name": "tsarbo/sw-mailchimp-user-sync",
+    "version": "master",
+    "type": "wordpress-plugin",
+    "source": {
+        "url": "git@github.com:tsarbo/sw-mailchimp-user-sync",
+        "type": "git",
+        "reference": "master"
+    }
+}
